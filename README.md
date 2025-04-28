@@ -53,8 +53,14 @@ The goal was to create a landing page and a web form using only HTML and CSS —
    git clone https://github.com/Shubhangshuklaa/NeuroNexus.git
    ```
 2. Open the project in any code editor like VS Code.
-3. Open index.html in your browser to view the landing page.
-4. Open form.html to check the form page.
+3. Open `index.html` in your browser to view the landing page.
+4. Open `form.html` to check the form page.
+
+---
+
+## 🔗 View Live Demo
+You can view the live demo of the project here:  
+[View Project](https://drive.google.com/file/d/1F-YAhkkTAjqDYm2bFp4J0S3OjJqIx3r7/view?usp=drive_link)
 
 ---
 
@@ -79,3 +85,4 @@ This project is for educational and internship purposes under the NeuroNexus Inn
 ---
 
 # 🎯 Thank You!
+
